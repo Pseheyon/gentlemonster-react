@@ -1,17 +1,15 @@
 {
-  "main.css": "/gentlemonster-react/static/css/main.cb45ec6a.chunk.css",
-  "main.js": "/gentlemonster-react/static/js/main.13546102.chunk.js",
-  "main.js.map": "/gentlemonster-react/static/js/main.13546102.chunk.js.map",
-  "static/js/1.c2d66919.chunk.js": "/gentlemonster-react/static/js/1.c2d66919.chunk.js",
-  "static/js/1.c2d66919.chunk.js.map": "/gentlemonster-react/static/js/1.c2d66919.chunk.js.map",
-  "static/css/2.2a60dafe.chunk.css": "/gentlemonster-react/static/css/2.2a60dafe.chunk.css",
-  "static/js/2.4f3eb745.chunk.js": "/gentlemonster-react/static/js/2.4f3eb745.chunk.js",
-  "static/js/2.4f3eb745.chunk.js.map": "/gentlemonster-react/static/js/2.4f3eb745.chunk.js.map",
-  "runtime~main.js": "/gentlemonster-react/static/js/runtime~main.6b2264f9.js",
-  "runtime~main.js.map": "/gentlemonster-react/static/js/runtime~main.6b2264f9.js.map",
-  "static/css/main.cb45ec6a.chunk.css.map": "/gentlemonster-react/static/css/main.cb45ec6a.chunk.css.map",
-  "static/css/2.2a60dafe.chunk.css.map": "/gentlemonster-react/static/css/2.2a60dafe.chunk.css.map",
-  "index.html": "/gentlemonster-react/index.html",
-  "precache-manifest.f1f9481664d83de93f9bb4df1aa7c337.js": "/gentlemonster-react/precache-manifest.f1f9481664d83de93f9bb4df1aa7c337.js",
-  "service-worker.js": "/gentlemonster-react/service-worker.js"
+  "files": {
+    "main.css": "/gentlemonster-react/static/css/main.5e8d8552.css",
+    "main.js": "/gentlemonster-react/static/js/main.91271d98.js",
+    "static/js/787.02d2677e.chunk.js": "/gentlemonster-react/static/js/787.02d2677e.chunk.js",
+    "index.html": "/gentlemonster-react/index.html",
+    "main.5e8d8552.css.map": "/gentlemonster-react/static/css/main.5e8d8552.css.map",
+    "main.91271d98.js.map": "/gentlemonster-react/static/js/main.91271d98.js.map",
+    "787.02d2677e.chunk.js.map": "/gentlemonster-react/static/js/787.02d2677e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e8d8552.css",
+    "static/js/main.91271d98.js"
+  ]
 }
